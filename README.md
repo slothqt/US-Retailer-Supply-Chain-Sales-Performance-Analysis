@@ -1,4 +1,4 @@
-# 🚚 US Retailer Supply Chain Sales Performance Analysis
+# 🚚 US Retailer Supply Chain & Sales Performance Analysis
 
 ## 1. Objective
 
