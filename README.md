@@ -43,7 +43,7 @@ This project focuses on analyzing the **supply chain operations** and **sales pe
 
 ### >> Page 2: Supply chain
 
-- Q3 and Q4 have peak order volumes yet maintain the fastest delivery times, indicating strong seasonal planning in exchange for higher inventory costs.  
+- Q3 and Q4 have peak order volumes yet maintain the fastest delivery times, indicating strong seasonal planning to enhance customer satisfaction in exchange for higher inventory costs.  
 - West has the highest return rate and costs; Anna is the sales representative with the highest return rate (11.7%), nearly 4x higher than peers.  
 - Central suffers from the slowest deliveries (average 37 days); South has the lowest sales and orders.  
 - Machines sub-category leads the quantity return rate at 13.9% → suggesting potential quality or unclear product instruction issues.  
