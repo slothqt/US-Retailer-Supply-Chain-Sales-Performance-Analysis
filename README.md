@@ -21,7 +21,7 @@ This project focuses on analyzing the **supply chain operations** and **sales pe
 ### Proceed to Power BI (Data Visualization & Analysis)
 
 - Cleaned and transformed raw data using Power Query.  
-- Built a semantic model and used DAX to calculate necessary metrics (e.g. Total Profit, Growth rate, Performance To-Date, Previous Period, etc.)  
+- Used DAX to calculate necessary metrics (e.g. Total Profit, Growth rate, Performance To-Date, Previous Period, etc.)  
 - Visualize the data and figure out meaningful insights.
 
 ## 4. Key findings:
