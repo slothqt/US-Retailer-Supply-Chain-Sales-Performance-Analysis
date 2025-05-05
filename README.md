@@ -29,7 +29,7 @@ This project focuses on analyzing the **supply chain operations** and **sales pe
 ### >> Summary:
 
 - Sales show steady but modest growth, with a 12.03% average profit margin.  
-- Total cost consumes 87.5% of revenue, could be due to excess inventory of low-profit items, high return rates, ineffective discounting, and delivery inefficiencies.  
+- Overall, total cost consumes 87.5% of revenue, which could be due to excess inventory of low-profit items, high return rates, ineffective discounting, and delivery inefficiencies.  
 - Long lead times suggest complex logistics operations or underperforming order processing time
 
 ### >> Page 1: Sales
